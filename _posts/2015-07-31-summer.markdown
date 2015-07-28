@@ -1,6 +1,6 @@
 ---
 title: Summer Hack & Help Session
-text: Join us on Friday afternoon 12-1:30pm. Click for details.
+text: Join us on Friday afternoon 12-3:00pm. Click for details.
 location: Hornbake Library Basement 0302H
 link: https://github.com/UMD-R-users/studyGroup/issues/7
 date: 2015-07-31
