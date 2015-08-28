@@ -63,6 +63,7 @@ ul.events{
 
 .eventSub{
   color: #553982;
+  margin-left:2em;
   margin-bottom: 1em;
 }
 
@@ -71,7 +72,7 @@ ul.events{
 }
 
 .eventTextTitle{
-    font-size:110%;
+    font-size:1150%;
     font-style: italic;
     margin-left:2em;
     margin-top: 1.5em;
