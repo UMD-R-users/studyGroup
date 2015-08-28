@@ -1,6 +1,6 @@
 ---
 title: Summer Hack & Help Session
-text: Join us on Friday afternoon 12-2:00pm. Click for details.
+text: Join us on Friday afternoon 12-2:00pm.
 location: Multi-Purpose Room - Engineering & Physical Sciences Library (Math Building) 
 link: https://github.com/UMD-R-users/studyGroup/issues/11
 date: 2015-08-28
