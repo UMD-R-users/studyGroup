@@ -69,12 +69,12 @@ ul.events{
 
 .eventTitle{
   font-size:150%;
-  margin-bottom: 3em;
 }
 
 .eventTextTitle{
     font-size:110%;
     font-style: italic;
+    margin-top: 3em;
 }
 
 .eventText{
