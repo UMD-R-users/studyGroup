@@ -72,6 +72,11 @@ ul.events{
   font-size:150%;
 }
 
+.eventText{
+    font-size:120%;
+    margin-bottom: 0.5em;
+}
+
 .img-centered {
     margin: 0 auto;
 }
