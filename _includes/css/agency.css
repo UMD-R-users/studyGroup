@@ -69,15 +69,16 @@ ul.events{
 
 .eventTitle{
   font-size:150%;
+  margin-bottom: 1em;
 }
 
 .eventTextTitle{
-    font-size:120%;
+    font-size:110%;
     font-style: italic;
 }
 
 .eventText{
-    font-size:110%;
+    font-size:100%;
 }
 
 .img-centered {
