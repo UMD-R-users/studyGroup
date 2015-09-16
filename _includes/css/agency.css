@@ -746,6 +746,9 @@ section#contact .text-danger {
 
 section#contact .email {
     color: #ffffff;
+    a { color: #cc0000; }
+    a.active {
+    color: #{{ site.color.secondary }}; }
 }
 
 footer {
