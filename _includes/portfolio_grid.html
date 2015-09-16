@@ -25,7 +25,10 @@
                     <p class='eventText'>{{ post.text }}
                     <br />
                     {{ post.location }}</p>
-                    <a href="{{ post.link }}"><div class='eventSub'>Details and directions</div></a>
+                        {% capture title %}{{post.title}}{% endcapture %}
+                        {% if posttitle != "No Session" %}
+                            <a href="{{ post.link }}"><div class='eventSub'>Details and directions</div></a>
+                        {% endif %}
                   </li>
                   <br />
                 {% endif %}
