@@ -747,11 +747,6 @@ section#contact .text-danger {
 section#contact .email {
     color: #ffffff; }
     
-section#contact .a {    
-    color: #cc0000; }
-
-section#contact .a.active {
-    color: #{{ site.color.secondary }}; }
 
 footer {
     padding: 25px 0;
