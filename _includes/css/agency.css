@@ -744,6 +744,10 @@ section#contact .text-danger {
     color: #e74c3c;
 }
 
+section#contact .email {
+    color: #ffffff;
+}
+
 footer {
     padding: 25px 0;
     text-align: center;
