@@ -1,4 +1,0 @@
----
-title: No Session
-date: 2015-10-09
----
