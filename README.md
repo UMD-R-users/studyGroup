@@ -1,7 +1,7 @@
-Mozilla Study Groups
-============
+UMD R Users Study Group
+=======================
 
-Welcome to [Mozilla Science Lab](https://www.mozillascience.org/)'s Study Group project! From here, we'll set you up with everything you need to start your own study group.
+Welcome to UMD R Users Study Group, which is modeled as a [Mozilla Science Lab](https://www.mozillascience.org/)'s Study Group project!
 
 ### Wait What's a 'Mozilla Study Group'?
 
