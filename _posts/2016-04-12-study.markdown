@@ -1,7 +1,7 @@
 ---
 title: Text Analysis with R - Code Study
-text: Join us for our kickoff code study meeting.
+text: Chapter 11
 location: Maryland Institute for Technology in the Humanities (Hornbake Library)
-link: https://github.com/UMD-R-users/studyGroup/issues/18
-date: 2016-01-26
+link: https://github.com/UMD-R-users/studyGroup/issues/30
+date: 2016-04-12
 ---
