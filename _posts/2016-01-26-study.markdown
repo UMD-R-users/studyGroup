@@ -1,6 +1,6 @@
 ---
 title: Text Analysis with R - CANCELLED
-text: This meeting is cancelled due to university closure. Please join us next week.
+text: This week's meeting is cancelled due to university closure. Please join us next week.
 location: 
 link: https://github.com/UMD-R-users/studyGroup/issues/18
 date: 2016-01-26
