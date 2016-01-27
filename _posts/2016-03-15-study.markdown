@@ -1,7 +1,7 @@
 ---
 title: Text Analysis with R - Code Study
-text: Chapter 7
+text: Chapter 6
 location: Maryland Institute for Technology in the Humanities (Hornbake Library)
-link: https://github.com/UMD-R-users/studyGroup/issues/26
+link: https://github.com/UMD-R-users/studyGroup/issues/25
 date: 2016-03-15
 ---
