@@ -1,6 +1,6 @@
 ---
 title: Text Analysis with R - Code Study
-text: Get the text and R installed.
+text: Get the text and install R
 location: 7121 McKeldin Library 
 link: https://github.com/UMD-R-users/studyGroup/issues/18
 date: 2016-02-02
