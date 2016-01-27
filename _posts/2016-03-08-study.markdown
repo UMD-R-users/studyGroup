@@ -1,7 +1,7 @@
 ---
 title: Text Analysis with R - Code Study
-text: Chapter 6
+text: Chapter 5
 location: 7121 McKeldin Library 
-link: https://github.com/UMD-R-users/studyGroup/issues/25
+link: https://github.com/UMD-R-users/studyGroup/issues/24
 date: 2016-03-08
 ---
