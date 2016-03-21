@@ -1,7 +1,7 @@
 ---
 title: Text Analysis with R - Code Study
 text: Chapter 8
-location: 7121 McKeldin Library 
+location: MITH, 0301 Hornbake Library
 link: https://github.com/UMD-R-users/studyGroup/issues/27
 date: 2016-03-29
 ---
